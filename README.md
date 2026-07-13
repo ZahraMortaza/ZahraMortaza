@@ -19,6 +19,14 @@
 <ul>
   <li>🔭 I’m currently working on <strong>"Hydro Electronic STS"</strong> & <strong>"Smart Grid Prototype"</strong>.</li>
   <li>🧐 I'm expanding my knowledge and evolving in the <strong>AI Specialization</strong> field.</li>
+  <li>💬 Ping me about: 
+  <img src="https://img.shields.io/badge/Classic_Control-blue?style=flat-square" alt="Classic Control">
+  <img src="https://img.shields.io/badge/PID_Control-purple?style=flat-square" alt="PID Controller">
+  <img src="https://img.shields.io/badge/P%26ID_Diagrams-orange?style=flat-square" alt="P&ID Diagrams">
+  <img src="https://img.shields.io/badge/Solar_Panels_%26_STS-yellow?style=flat-square&logoColor=black" alt="Solar Panels & STS">
+  <img src="https://img.shields.io/badge/Fire_Alarm_Systems-red?style=flat-square" alt="Fire Alarm Systems">
+  <img src="https://img.shields.io/badge/Personal_Finance-green?style=flat-square" alt="Personal Finance">
+</li>
   <li>🌐 Languages: 
     <img src="https://img.shields.io/badge/Arabic-Native-blue?style=flat-square" alt="Arabic">
     <img src="https://img.shields.io/badge/English-Very Well-green?style=flat-square" alt="English">
@@ -35,13 +43,6 @@
   <!-- MATLAB (Often used in Control/EE) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
 </p>
-<li>💬 Ping me about: 
-  <img src="https://img.shields.io/badge/Classic_Control-blue?style=flat-square" alt="Classic Control">
-  <img src="https://img.shields.io/badge/PID_Control-purple?style=flat-square" alt="PID Controller">
-  <img src="https://img.shields.io/badge/P%26ID_Diagrams-orange?style=flat-square" alt="P&ID Diagrams">
-  <img src="https://img.shields.io/badge/Solar_Panels_%26_STS-yellow?style=flat-square&logoColor=black" alt="Solar Panels & STS">
-  <img src="https://img.shields.io/badge/Fire_Alarm_Systems-red?style=flat-square" alt="Fire Alarm Systems">
-  <img src="https://img.shields.io/badge/Personal_Finance-green?style=flat-square" alt="Personal Finance">
-</li>
+
 
 <br/>
