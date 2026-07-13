@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Zahra Mortaza</h2>
+<h2>Hey 👋, I'm Zahra</h2>
 <p>I'm an <strong>Electrical Engineering student at the University of Baghdad</strong>, and I hold a <strong>Diploma in Measurement and Control</strong> from MOTI. I'm passionate about automation, smart grids, and merging electrical engineering with AI.</p>
 
 <p>
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" />
+<img align="right" src="[https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZwN3pybTRjeG9uenIwbTF4c2dub244emh1OWx4M3IyZTgzbnpuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif)" width="180" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
