@@ -38,7 +38,7 @@
 </p>
 <li>💬 Ping me about: 
   <img src="https://img.shields.io/badge/Classic_Control-blue?style=flat-square" alt="Classic Control">
-  <img src="https://img.shields.io/badge/PID_Control-purple?style=flat-square" alt="PID Control">
+  <img src="https://img.shields.io/badge/PID_Control-purple?style=flat-square" alt="PID Controller">
   <img src="https://img.shields.io/badge/P%26ID_Diagrams-orange?style=flat-square" alt="P&ID Diagrams">
   <img src="https://img.shields.io/badge/Solar_Panels_%26_STS-yellow?style=flat-square&logoColor=black" alt="Solar Panels & STS">
   <img src="https://img.shields.io/badge/Fire_Alarm_Systems-red?style=flat-square" alt="Fire Alarm Systems">
@@ -46,4 +46,3 @@
 </li>
 
 <br/>
-<p><i>"Driven by data, powered by electricity."</i></p>
