@@ -13,7 +13,7 @@
 </a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
