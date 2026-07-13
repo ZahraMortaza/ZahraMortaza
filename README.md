@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Zahra Mortaza</h2>
-<p>I'm an <strong>Electrical Engineering student at the University of Baghdad</strong>, and I hold a <strong>Diploma in Measurement and Control</strong> from the Oil Training Institute. I'm passionate about automation, smart grids, and merging electrical engineering with AI.</p>
+<p>I'm an <strong>Electrical Engineering student at the University of Baghdad</strong>, and I hold a <strong>Diploma in Measurement and Control</strong> from MOTI. I'm passionate about automation, smart grids, and merging electrical engineering with AI.</p>
 
 <p>
   <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BB2ugBUjwQbeplcPECtZbpw%3D%3D" target="_blank">
