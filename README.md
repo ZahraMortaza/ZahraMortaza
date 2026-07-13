@@ -19,7 +19,6 @@
 <ul>
   <li>🔭 I’m currently working on <strong>"Hydro Electronic STS"</strong> & <strong>"Smart Grid Prototype"</strong>.</li>
   <li>🧐 I'm expanding my knowledge and evolving in the <strong>AI Specialization</strong> field.</li>
-  <li>💬 Ping me about <strong>Classic Control, PID, P&ID Diagrams, Solar Panels, or Personal Finance</strong>.</li>
   <li>🌐 Languages: 
     <img src="https://img.shields.io/badge/Arabic-Native-blue?style=flat-square" alt="Arabic">
     <img src="https://img.shields.io/badge/English-Very Well-green?style=flat-square" alt="English">
