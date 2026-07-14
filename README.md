@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/zahraa_mortaza_?igsh=Z2M1MnJrYWRoZm9w&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://dev.to/zahramortaza" target="_blank">
+  <a href="https://dev.to/zahra_mortaza" target="_blank">
   <img src="https://img.shields.io/badge/-DEV_Community-0A0A0A?style=flat-square&logo=devto&logoColor=white" alt="DEV Badge">
 </a>
 </p>
